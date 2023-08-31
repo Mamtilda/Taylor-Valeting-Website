@@ -31,12 +31,3 @@ To use the website locally or deploy it to a web server:
 In the **process_form.php** file, locate the line where it says:
 ```php
 $to = "youremail.com";  // Replace with your desired email address
-
-
-
-
-
-
-
-
-
