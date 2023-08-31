@@ -32,7 +32,6 @@ In the **process_form.php** file, locate the line where it says:
 ```php
 $to = "youremail.com";  // Replace with your desired email address
 
-Change "youremail.com" to the email address where you want to receive form submissions.
 
 
 
