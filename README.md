@@ -27,10 +27,11 @@ To use the website locally or deploy it to a web server:
    ```sh
    git clone https://github.com/Mamtilda/taylored-valeting-website.git
 2. Set up a web server (e.g., Apache, Nginx) to serve the files in this directory.
-3. Customize the email address in the PHP form handler:
+3. Customise the email address in the PHP form handler:
 In the **process_form.php** file, locate the line where it says:
 ```php
 $to = "youremail.com";  // Replace with your desired email address
+
 Change "youremail.com" to the email address where you want to receive form submissions.
 
 
