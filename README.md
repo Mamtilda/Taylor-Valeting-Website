@@ -2,6 +2,8 @@
 
 This repository contains the source code for the "Taylored Valeting & Detailing" website. The website is designed for showcasing the services provided by Taylored Valeting & Detailing, a vehicle cleaning and detailing service.
 
+**NOTE: This website was developed as part of my college assignment for my undergrad degree (BSc Computer Networking, 2015-2019)**
+
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
