@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Set up email parameters
-    $to = "mamtathind195@gmail.com"; //replace youremail.com with the email address you want to receive the data
+    $to = "youremail@example.com"; //replace youremail.com with the email address you want to receive the data
     $subject = "New Contact Form Submission";
     $message = "First Name: $firstname\nLast Name: $lastname\nEmail: $email\nNumber: $number\nComments: $comments";
 
