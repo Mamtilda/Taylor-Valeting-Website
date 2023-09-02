@@ -32,4 +32,4 @@ To use the website locally or deploy it to a web server:
 3. Customise the email address in the PHP form handler:
 In the **process_form.php** file, locate the line where it says:
 ```php
-$to = "youremail.com";  // Replace with your desired email address
+$to = "youremail@example.com";  // Replace with your desired email address
